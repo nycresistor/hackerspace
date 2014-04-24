@@ -46,12 +46,12 @@ Propane and Other Compressed Gas Cylinders
 These can be safely disposed of at the Lowe's on 9th Street. Until then they should be placed, empty, in front of
 the trash bin. If you see tanks there and you're on your way to that neighborhood, please grab 'em!
 
-http://ask.metafilter.com/245982/How-to-dispose-empty-disposable-propane-tanks-in-Brooklyn
+(http://ask.metafilter.com/245982/How-to-dispose-empty-disposable-propane-tanks-in-Brooklyn)
 
 E-Waste
 -------
 
 Place useful e-waste in the large rubber bin labelled "e-waste". These will be taken semi-regularly to the e-waste
-depot run by the Lower East Side Ecology Project off Third Avenue south of Union St. (look up address). If you see a
+depot run by the [Lower East Side Ecology Center](http://www.lesecologycenter.org/) at [469 President St, New York, NY 11215](https://www.google.com/maps/place/Lower+East+Side+Ecology+Center+Electronic+Waste+Recycling+Warehouse/@40.678695,-73.987422,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x4653fa46383b0705). If you see a
 full bin and have a car/handtruck and want to do a run, go for it! Just bring back the bin!
 
