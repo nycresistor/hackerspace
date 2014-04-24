@@ -26,6 +26,8 @@ Getting Trash Ready for Pick-up
 * Bag ordinary trash in black bags
 * Recycling goes in clear blue bags
 * Don't overload bags!
+* Large pieces of cardboard are piled and wrapped with packing tape (packing tape gun is atop the fridge)
+* Small pieces of cardboard go in bags with the paper
 * Use the freight elevator to bring down the trash
 * Halt obnoxious, peppy music
 
