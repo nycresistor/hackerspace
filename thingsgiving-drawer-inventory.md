@@ -27,7 +27,8 @@ ring stand accessories
 ## 9 
 ac hardware
 
-##10 fans and pumps
+##10 
+fans and pumps
 
 ## 11 
 random weird shit
@@ -68,7 +69,8 @@ big ole power supplies
 ## 19 
 Ethernet cable
 
-## 20 motors big
+## 20
+motors big
 
 ## 21 
 old circuit boards
@@ -97,7 +99,8 @@ flux
 ## 29 
 wire terminal
 
-## 30 soldering irons
+## 30
+soldering irons
 
 ## 31 
 servos servomania
@@ -195,7 +198,8 @@ heat shrink
 ## 39 
 speaker wire
 
-## 40 pcbs
+## 40
+pcbs
 
 ## 41
 
@@ -293,7 +297,8 @@ nuts and bolts
 ## 59 
 small batteries
 
-## 60 battery holders
+## 60
+battery holders
 
 ## 61 
 9v batteries
@@ -322,7 +327,8 @@ organizing boxes
 ## 69 
 misc chargers
 
-## 70 speaker building parts
+## 70
+speaker building parts
 
 ## 71 
 transformers LCD backlight inverters
@@ -348,7 +354,8 @@ zip ties
 ## 79 
 plastic bags
 
-## 80 twitchie kit parts
+## 80
+twitchie kit parts
 
 ## 81 
 home automation
@@ -377,7 +384,8 @@ switches
 ## 89 
 heat sinks
 
-## 90 computer drive accessories
+## 90
+computer drive accessories
 
 ## 91 
 hard drives
