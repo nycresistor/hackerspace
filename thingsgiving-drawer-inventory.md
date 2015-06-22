@@ -370,7 +370,7 @@ divi cables
 ram
 
 ## 85 
-computer case parts
+Geiger Tubes and CyberPunk Ware
 
 ## 86 
 fans
